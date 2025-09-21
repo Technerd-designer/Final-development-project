@@ -7,7 +7,7 @@ Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! 
     -Updating reading materials
     -Improving education levels among students
 
-# 3. <img src="images/register.png" width="50" height="50"> Requirements
+# 3. <img width="50" height="30" alt="Image" src="https://github.com/user-attachments/assets/a75ad2e0-9e49-4b95-ad79-4b0cd14e0fc1" /> Requirements
     
     -Simply requires your details
 
@@ -24,6 +24,7 @@ Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! 
 
 
 **Welcome all and happy reading!**
+
 
 
 
