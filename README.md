@@ -1,1 +1,25 @@
-# Final-development-project
+# 1. <img src="images/library.png" width="50" height="35"> Atlas library
+
+Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! Whether you're here to study, do research or even unwind, this is definitely the place for you.
+
+# 2. <img src="images/dart-board.png" width="50" height="35"> Purpose of our system
+    -Allowing access to any and all reading material
+    -Updating reading materials
+    -Improving education levels among students
+
+# 3. <img src="images/register.png" width="50" height="50"> Requirements
+    
+    -Simply requires your details
+
+# 4. <img src="images/website.png" width="50" height="35"> How to access
+    -Go onto our website
+    -Click on the REGISTER page
+    -Follow instructions and enter all your details
+    -You're now ready to go!
+
+# 5. <img src="images/crisis.png" width="35" height="40"> Please note!!
+    -Incorrect details will not be accepted by the system
+    -Only people above the age of 18 are allowed access
+    -Children below 18 can access the system only through their parents
+
+**Welcome all and happy reading!**
