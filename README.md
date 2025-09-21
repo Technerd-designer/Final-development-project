@@ -1,4 +1,4 @@
-# 1. <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/1e4d94d4-dfed-4bd1-b102-c32d901558a0" /> Atlas library
+# 1. <img width="50" height="30" alt="Image" src="https://github.com/user-attachments/assets/1e4d94d4-dfed-4bd1-b102-c32d901558a0" /> Atlas library
 
 Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! Whether you're here to study, do research or even unwind, this is definitely the place for you.
 
@@ -24,3 +24,4 @@ Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! 
 
 
 **Welcome all and happy reading!**
+
