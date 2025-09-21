@@ -11,7 +11,7 @@ Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! 
     
     -Simply requires your details
 
-# 4. <img src="images/website.png" width="50" height="35"> How to access
+# 4. <img width="50" height="30" alt="Image" src="https://github.com/user-attachments/assets/15c5ccea-cd11-44b9-90e9-531579e17aff" /> How to access
     -Go onto our website
     -Click on the REGISTER page
     -Follow instructions and enter all your details
@@ -24,6 +24,7 @@ Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! 
 
 
 **Welcome all and happy reading!**
+
 
 
 
