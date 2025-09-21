@@ -1,0 +1,164 @@
+/* Home */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+	width: 100%;
+    height: 40px; 
+}
+ul{
+	float: left;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 50px;
+    margin-left: 14%;
+}
+ul li{
+    list-style: none;
+    margin-top: 2px;
+    font-size: 70px;
+    padding-left: 100px;
+}
+ul li a{
+	color:dodgerblue;
+	font-weight: 800;
+	font-size: 25px;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+ul li input{
+    border: none;
+    border-radius: 4px;
+    padding: 4px;
+    text-align: center;
+    background-color:gold;
+}
+ul li a:hover{
+	color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);   
+}
+.title h1{
+    font-size: 90px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: darkred;
+    cursor: pointer;
+    animation: head 6s alternate infinite;
+    position: relative;
+   
+}
+@keyframes head{
+    0%{color: darkred; left: 0px; top: 0px;}
+    25%{color: orangered; left: 100px; top: 0px; }
+    50%{color: teal; left: 200px ; top: 150px;}
+    75%{color:rgb(245, 178, 8); left: 0px; top: 200px;}
+    100%{color: blueviolet; left: 0px; top: 0px;}
+}
+
+
+/* about */
+.about{
+    margin-top: 30px;
+}
+#img{
+    width: 1500px;
+    height: 270px;
+}
+#img1{
+    width: 427px;
+    height: 200px;
+    padding: 5px;
+}
+.about p{
+    font-size: 20px;
+    font-weight:lighter;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:white;
+    margin-left: 10px;
+}
+
+/* registration */
+.regform{
+    text-align: center;
+    width: 210px;
+    height: 68%;
+    background:radial-gradient(white(255,255,255,0.6));
+    box-shadow: 0 0 10px black;
+    padding: 30px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    float: left;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+/* registration button */
+.btn{
+    text-align: center;
+    border: none;
+    background: rgb(76, 76, 194);
+    border-radius: 4px;
+    font-size: 15px;
+    padding: 7px;
+    margin: 9px;
+    margin-top: 20px;
+    color: white;
+   
+}
+
+/* contact form */
+#contact{
+    margin-top: 8%;
+    margin-left: 32%;
+    font-weight: bold;
+    color: white;
+    font-size: 26px;
+}
+textarea{
+    width: 400px;
+    height: 230px;
+    background-color: transparent;
+    box-shadow:0 0 10px blueviolet;
+    border-radius: 10px;
+    padding: 90px;
+    margin-top: 10px;
+    color: white;
+    font-size: 17px;
+    font-weight: 900;
+    resize: vertical;
+    box-sizing: border-box;
+    margin-left: 35%;
+}
+#reset{
+    background-color: teal;
+    padding: 5px;
+    border-radius: 5px;
+    color: thistle;
+    font-weight: 500;
+    margin-left: 42%;
+    
+} 
+#sub{
+    background-color: teal;
+    padding: 5px;
+    border-radius: 5px;
+    color: thistle;
+    font-weight: 500;
+    margin-left: 9%;
+}
