@@ -2,7 +2,7 @@
 
 Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! Whether you're here to study, do research or even unwind, this is definitely the place for you.
 
-# 2. <img src="images/dart-board.png" width="50" height="35"> Purpose of our system
+# 2. <img width="50" height="30" alt="Image" src="https://github.com/user-attachments/assets/d38b977b-f882-4f16-aaf2-31ed780d3022" /> Purpose of our system
     -Allowing access to any and all reading material
     -Updating reading materials
     -Improving education levels among students
@@ -24,4 +24,5 @@ Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! 
 
 
 **Welcome all and happy reading!**
+
 
