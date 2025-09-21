@@ -17,13 +17,14 @@ Welcome to the ATLAS LIBRARY-a fun,sophisticated system that makes reading fun! 
     -Follow instructions and enter all your details
     -You're now ready to go!
 
-# 5. <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/2e00333c-c48d-4ce7-8bfa-f3fe5eec5121" /> Please note!!
+# 5. <img width="50" height="30" alt="Image" src="https://github.com/user-attachments/assets/2e00333c-c48d-4ce7-8bfa-f3fe5eec5121" /> Please note!!
     -Incorrect details will not be accepted by the system
     -Only people above the age of 18 are allowed access
     -Children below 18 can access the system only through their parents
 
 
 **Welcome all and happy reading!**
+
 
 
 
