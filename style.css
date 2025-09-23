@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background-image: url(background.png);
+    background-image: url(images/background.png);
 }
 .background{
     width: 100vw;
@@ -67,7 +67,12 @@ ul li a:hover{
     cursor: pointer;
     animation: head 6s alternate infinite;
     position: relative;
-   
+}
+.title p{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin-left: 100px;
 }
 @keyframes head{
     0%{color: darkred; left: 0px; top: 0px;}
@@ -170,3 +175,4 @@ textarea{
     margin-left: 9%;
 
 }
+
